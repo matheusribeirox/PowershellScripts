@@ -1,0 +1,8 @@
+Github Modulo Envio de emails powershell:
+
+
+https://github.com/EvotecIT/Mailozaurr/
+
+
+https://evotec.xyz/mailozaurr-new-mail-toolkit-smtp-imap-pop3-with-support-for-oauth-2-0-and-graphapi-for-powershell/
+https://evotec.xyz/easy-way-to-send-emails-using-microsoft-graph-api-office-365-with-powershell/
