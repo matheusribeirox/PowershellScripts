@@ -1,0 +1,149 @@
+﻿{
+  "basePath": "E:\\Benner\\WES",
+  "clientes": [
+    {
+      "nome": "ARAUCARIA",
+      "porta": 8080,
+      "rootPathName": "ARAUCARIA",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": null },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+    {
+      "nome": "CASF",
+      "porta": 8081,
+      "rootPathName": "CASF",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+    {
+      "nome": "EMBRATUR",
+      "porta": 8082,
+      "rootPathName": "EMBRATUR",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+    {
+      "nome": "IPSPAC",
+      "porta": 8083,
+      "rootPathName": "IPSPAC",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "PAJUCARA",
+      "porta": 8084,
+      "rootPathName": "PAJUCARA",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "BAVARESCO",
+      "porta": 8085,
+      "rootPathName": "BAVARESCO",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "REALJG",
+      "porta": 8086,
+      "rootPathName": "REALJG",
+      "apps": [
+        { "nomeProduto": "RealJG_RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RealJG_RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "TERRACAP",
+      "porta": 8087,
+      "rootPathName": "TERRACAP",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "CASALE",
+      "porta": 8088,
+      "rootPathName": "CASALE",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "FAGIFOR",
+      "porta": 8089,
+      "rootPathName": "FAGIFOR",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "CHAVANTES",
+      "porta": 8090,
+      "rootPathName": "CHAVANTES",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "UNINCOR",
+      "porta": 8091,
+      "rootPathName": "UNINCOR",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "COCATREL",
+      "porta": 8092,
+      "rootPathName": "COCATREL",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "CRP-MG",
+      "porta": 8093,
+      "rootPathName": "CRP-MG",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "FAPESP",
+      "porta": 8094,
+      "rootPathName": "FAPESP",
+      "apps": [
+        { "nomeProduto": "RHWEB", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RHWEB_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    },
+	{
+      "nome": "COSTANTINI",
+      "porta": 8095,
+      "rootPathName": "COSTANTINI",
+      "apps": [
+        { "nomeProduto": "RH", "env": "producao", "pathOverride": null, "preloadOverride": true },
+        { "nomeProduto": "RH_HML", "env": "homologacao", "pathOverride": null, "preloadOverride": null }
+      ]
+    }
+  ]
+}
